@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd358e6a-a62a-4fae-a9b3-983a1f269237" name="Changes" comment="Validação do Token">
+    <list default="true" id="cd358e6a-a62a-4fae-a9b3-983a1f269237" name="Changes" comment="Validação do Token--Atualização">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/projeto/ForumHub/ForumHubApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/projeto/ForumHub/ForumHubApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/projeto/ForumHub/domain/usuario/UsuarioRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/projeto/ForumHub/domain/usuario/UsuarioRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/projeto/ForumHub/ForumHubApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/projeto/ForumHub/ForumHubApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/projeto/ForumHub/domain/usuario/AutenticacaoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/projeto/ForumHub/domain/usuario/AutenticacaoService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/projeto/ForumHub/domain/usuario/UsuarioRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/projeto/ForumHub/domain/usuario/UsuarioRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/projeto/ForumHub/infrastructure/security/SecurityFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/projeto/ForumHub/infrastructure/security/SecurityFilter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/br/com/projeto/ForumHub/infrastructure/security/SecurityFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/projeto/ForumHub/infrastructure/security/SecurityFilter.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737398815658</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Validação do Token--Atualização">
+      <option name="closed" value="true" />
+      <created>1737401973418</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737401973418</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -153,7 +157,8 @@
     <MESSAGE value="Autenticação com Spring Security" />
     <MESSAGE value="Token com JWT" />
     <MESSAGE value="Validação do Token" />
-    <option name="LAST_COMMIT_MESSAGE" value="Validação do Token" />
+    <MESSAGE value="Validação do Token--Atualização" />
+    <option name="LAST_COMMIT_MESSAGE" value="Validação do Token--Atualização" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
