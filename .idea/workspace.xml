@@ -5,15 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd358e6a-a62a-4fae-a9b3-983a1f269237" name="Changes" comment="correção-v3">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/projeto/ForumHub/domain/usuario/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/projeto/ForumHub/domain/usuario/Usuario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/projeto/ForumHub/domain/usuario/UsuarioRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/projeto/ForumHub/domain/usuario/UsuarioRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/projeto/ForumHub/infrastructure/security/SecurityConfigurations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/projeto/ForumHub/infrastructure/security/SecurityConfigurations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/projeto/ForumHub/infrastructure/security/TokenService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/projeto/ForumHub/infrastructure/security/TokenService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/projeto/ForumHub/controller/AutenticacaoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/projeto/ForumHub/controller/AutenticacaoController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/projeto/ForumHub/domain/usuario/AutenticacaoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/projeto/ForumHub/domain/usuario/AutenticacaoService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/projeto/ForumHub/domain/usuario/UsuarioRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/projeto/ForumHub/domain/usuario/UsuarioRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/projeto/ForumHub/infrastructure/security/SecurityConfigurations.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/projeto/ForumHub/infrastructure/security/SecurityConfigurations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/projeto/ForumHub/infrastructure/security/TokenService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/projeto/ForumHub/infrastructure/security/TokenService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/projeto/ForumHub/domain/usuario/AutenticacaoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/projeto/ForumHub/domain/usuario/Usuario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/projeto/ForumHub/domain/usuario/UsuarioRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/projeto/ForumHub/infrastructure/security/SecurityConfigurations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/projeto/ForumHub/infrastructure/security/SecurityFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/projeto/ForumHub/infrastructure/security/TokenService.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +28,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Record" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -52,6 +54,9 @@
     &quot;accountId&quot;: &quot;9ae0e777-e15c-458c-b4e5-6dfc07b75e5c&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -67,16 +72,20 @@
   "keyToString": {
     "Application.ForumHubApplication.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "controle-acesso",
+    "git-widget-placeholder": "cadastro-topico",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/sanso/OneDrive/Documentos/ONE/ForumHub",
-    "settings.editor.selected.configurable": "advanced.settings"
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="br.com.projeto.ForumHub.infrastructure.security" />
+      <recent name="br.com.projeto.ForumHub.domain.topico" />
       <recent name="br.com.projeto.ForumHub.controller" />
+      <recent name="br.com.projeto.ForumHub.infrastructure.security" />
       <recent name="br.com.projeto.ForumHub.domain.usuario" />
     </key>
   </component>
